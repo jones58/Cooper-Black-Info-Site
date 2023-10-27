@@ -28,21 +28,23 @@ html {
 }
 
 header {
-  margin: 5vh 5vw;
+  margin-top: 5vh;
+  border-bottom: var(--tertiary-color) 2px solid;
   font-size: 3rem;
-  line-height: 5rem;
   font-family: "CooperBlack";
   text-align: center;
+  background-color: var(--background-color);
 }
 
 #navbar {
-  margin-top: -5vh;
+  margin-bottom: 5vh;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
   padding: 20px;
   flex-wrap: wrap;
+  border-bottom: var(--tertiary-color) 2px solid;
 }
 
 #navbar a {
@@ -79,16 +81,15 @@ main h2 {
 .image-row {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
-  padding: 20px;
 }
 
 .image-row img {
   width: 300px;
-  height: 250px;
-  padding: 10px;
+  height: 300px;
   object-fit: contain;
+  padding: 5px;
 }
 
 footer {
@@ -148,7 +149,5 @@ footer h2 {
   .image-row img {
     width: 80vw;
     height: auto;
-    padding: 10px;
-    object-fit: contain;
   }
 }
