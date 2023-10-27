@@ -28,6 +28,8 @@ Promote the website within design and typographic communities, and consider coll
 
 # Links
 
+https://www.theguardian.com/fashion/2017/apr/10/just-my-type-how-cooper-black-became-2017s-most-fashionable-font
+
 https://fonts.adobe.com/fonts/cooper-black#fonts-section
 
 https://www.youtube.com/watch?v=Zu91meda2I8
@@ -39,6 +41,8 @@ https://medium.com/swlh/fat-face-100-years-of-cooper-black-cf7735f68699
 https://fontreviewjournal.com/cooper/
  https://twitter.com/Lett_Arc/status/1200127242111737858
 https://en.wikipedia.org/wiki/Cooper_Black#Cooper_Hilite
+
+https://www.theguardian.com/fashion/2017/apr/10/just-my-type-how-cooper-black-became-2017s-most-fashionable-font
 
 for pairing info:
 https://www.typewolf.com/cooper
