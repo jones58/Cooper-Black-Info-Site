@@ -76,6 +76,15 @@ main {
 main h2 {
   font-size: 2rem;
   font-family: "CooperBlack";
+  text-align: center;
+}
+
+.text-block {
+  column-count: 2;
+  column-gap: 40px;
+  column-rule: 1px solid var(--primary-color);
+  break-before: column;
+  margin-bottom: 3vh;
 }
 
 .image-row {
@@ -131,6 +140,21 @@ footer h2 {
   }
 }
 
+.button {
+  background-color: var(--primary-color);
+  color: var(--background-color);
+  border-radius: 5%;
+  padding: 1.5rem;
+  font-family: "CooperBlack";
+  font-size: 1.5rem;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+  border: 1px solid var(--primary-color);
+}
+
 @media screen and (max-width: 590px) {
   header {
     font-size: 1.5rem;
@@ -149,5 +173,8 @@ footer h2 {
   .image-row img {
     width: 80vw;
     height: auto;
+  }
+  .text-block {
+    column-count: 1;
   }
 }
