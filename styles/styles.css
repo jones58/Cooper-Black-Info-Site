@@ -139,17 +139,12 @@ footer h2 {
   font-size: 2rem;
 }
 
-@media screen and (max-width: 960px) {
-  header {
-    font-size: 2rem;
-    line-height: 4rem;
-  }
-  .image-row {
-    flex-wrap: wrap;
-  }
-  footer {
-    position: relative;
-  }
+.button-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
 }
 
 .button {
@@ -165,6 +160,19 @@ footer h2 {
   margin: 10px;
   cursor: pointer;
   border: 1px solid var(--primary-color);
+}
+
+@media screen and (max-width: 960px) {
+  header {
+    font-size: 2rem;
+    line-height: 4rem;
+  }
+  .image-row {
+    flex-wrap: wrap;
+  }
+  footer {
+    position: relative;
+  }
 }
 
 @media screen and (max-width: 590px) {
