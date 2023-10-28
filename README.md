@@ -53,3 +53,9 @@ a guide of what's appropiate and also for pairings.
 - write readme based on commits.
 - Work out how to embed image into readme and add progress photos in
 - Promote the website within design and typographic communities. Ask for feedback.
+- bigger gap between sections, like history etc.
+    Add class section to all the sections like in use etc and add margin bottom and top 5vh ish to make space between them
+- font not loading properly on other logins on this computer
+- top of left text columns - theres a gap before first sentence , looks strange
+- Good Mobile menu: https://www.barbican.org.uk/whats-on/2023/event/the-conservatory-x-ranjani-shettar
+- Share in reddit etc when got it looking better than font review journal site
