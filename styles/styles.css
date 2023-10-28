@@ -157,9 +157,12 @@ footer h2 {
   text-decoration: none;
   text-align: center;
   display: inline-block;
-  margin: 10px;
   cursor: pointer;
-  border: 1px solid var(--primary-color);
+}
+
+.button:hover {
+  background-color: var(--secondary-color);
+  color: var(--background-color);
 }
 
 @media screen and (max-width: 960px) {
