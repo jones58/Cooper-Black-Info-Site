@@ -120,6 +120,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+
   flex-wrap: wrap;
   color: var(--tertiary-color);
   font-size: 2rem;
@@ -128,7 +129,7 @@ footer {
 footer a {
   color: var(--tertiary-color);
   text-decoration: none;
-  margin: 0 2.5vw;
+  margin: 5vh 2.5vw;
 }
 
 footer a:hover {
