@@ -102,6 +102,14 @@ main h2 {
   padding: 5px;
 }
 
+.section {
+  padding-top: 5vh;
+}
+
+.section:last-of-type {
+  padding-bottom: 5vh;
+}
+
 footer {
   position: sticky;
   bottom: 0;
