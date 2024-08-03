@@ -1,13 +1,5 @@
 # Cooper-Black-Info-Site
 
-Built as project for Just IT course
-
-# Planning
-
-# Building
-
-# Debugging
-
 ### Resources
 
 https://www.theguardian.com/fashion/2017/apr/10/just-my-type-how-cooper-black-became-2017s-most-fashionable-font
